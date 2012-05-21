@@ -12,7 +12,7 @@ body
 {
 	padding: 0;
 	margin: 0 ;
-#	background: #fff;
+#	background: #0000FF; /* bleu */
 	font-family: sans-serif;
 }
 
@@ -20,7 +20,7 @@ body
 {
 	margin: 0;
 	padding: 20px;
-	background: #ccc;
+	background: #0000FF;
 	height:50px;
 	background-image: url('haut.jpg');
 	background-repeat: no-repeat;
@@ -54,7 +54,7 @@ body
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: #4B0082;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
